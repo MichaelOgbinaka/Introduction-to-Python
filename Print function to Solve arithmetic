@@ -1,7 +1,9 @@
+# created my variables
 a = 4
 b = 5
 c = 6
 
+# used print function to perform different arithmetics
 print("a:", a, "b:", b, "c:", c)
 print()
 print("a + b + c =", a + b + c)
