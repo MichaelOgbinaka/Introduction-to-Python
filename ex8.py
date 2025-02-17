@@ -1,3 +1,6 @@
+
+# using different boolean expression
+
 print("4 < 8 and 8 < 80:", 4 < 8 and 8 < 80)
 print("4 > 8 or 8 < 80:", 4 > 8 or 8 < 80)
 print("not True:", not True)
@@ -5,6 +8,7 @@ print("not False:", not False)
 
 print()
 
+# saving num for variable an using them to perform boolean expression and print out true or false
 num_1 = 4
 num_2 = 5
 num_3 = 6
